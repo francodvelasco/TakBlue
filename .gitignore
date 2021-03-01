@@ -1,0 +1,14 @@
+___
+env
+*.DS_Store
+*.pyc
+__pycache
+env
+*.DS_Store
+*.pyc
+*__pycache__
+myenv
+env
+*.DS_Store
+*.pyc
+__pycache__
